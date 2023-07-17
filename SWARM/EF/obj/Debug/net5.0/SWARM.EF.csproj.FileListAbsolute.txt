@@ -1,0 +1,12 @@
+C:\Projects\SWARM\EF\bin\Debug\net5.0\SWARM.EF.deps.json
+C:\Projects\SWARM\EF\bin\Debug\net5.0\SWARM.EF.dll
+C:\Projects\SWARM\EF\bin\Debug\net5.0\ref\SWARM.EF.dll
+C:\Projects\SWARM\EF\bin\Debug\net5.0\SWARM.EF.pdb
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.csproj.AssemblyReference.cache
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.AssemblyInfoInputs.cache
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.AssemblyInfo.cs
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.csproj.CoreCompileInputs.cache
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.dll
+C:\Projects\SWARM\EF\obj\Debug\net5.0\ref\SWARM.EF.dll
+C:\Projects\SWARM\EF\obj\Debug\net5.0\SWARM.EF.pdb

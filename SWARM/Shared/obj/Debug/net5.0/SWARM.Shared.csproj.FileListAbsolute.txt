@@ -1,0 +1,12 @@
+C:\Projects\SWARM\Shared\bin\Debug\net5.0\SWARM.Shared.deps.json
+C:\Projects\SWARM\Shared\bin\Debug\net5.0\SWARM.Shared.dll
+C:\Projects\SWARM\Shared\bin\Debug\net5.0\ref\SWARM.Shared.dll
+C:\Projects\SWARM\Shared\bin\Debug\net5.0\SWARM.Shared.pdb
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.csproj.AssemblyReference.cache
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.AssemblyInfoInputs.cache
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.AssemblyInfo.cs
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.dll
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\ref\SWARM.Shared.dll
+C:\Projects\SWARM\Shared\obj\Debug\net5.0\SWARM.Shared.pdb
